@@ -1,0 +1,5 @@
+hello world
+hello world
+x="hello world"
+print(x)
+hello world
